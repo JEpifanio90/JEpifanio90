@@ -43,9 +43,6 @@
 
 ## Tools 🛠
 <p align="center>
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="100">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="100">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="100">
   <img src="https://raw.githubusercontent.com/JEpifanio90/JEpifanio90/master/assets/scsslogo.png" height="100">
   <img src="https://raw.githubusercontent.com/JEpifanio90/JEpifanio90/master/assets/gh%20actions.jpg" height="100">
   <img src="https://raw.githubusercontent.com/JEpifanio90/JEpifanio90/master/assets/docker.png" height="100">
