@@ -32,14 +32,6 @@
 </p>
 
 
-## Frameworks 🧰 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JEpifanio90/JEpifanio90/master/assets/angular.png" height="100">
-  <img src="https://raw.githubusercontent.com/JEpifanio90/JEpifanio90/master/assets/django.png" height="100">
-  <img src="https://raw.githubusercontent.com/JEpifanio90/JEpifanio90/master/assets/rails.png" height="100">
-  <img src="https://raw.githubusercontent.com/JEpifanio90/JEpifanio90/master/assets/netcore.jpg" height="100">
-</p>
-
 ## Social 🍻
 > * Twitter: [@AnalyticBear](https://twitter.com/AnalyticBear)
 > * Github: [@JEpifanio90](https://github.com/JEpifanio90)
