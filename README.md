@@ -42,8 +42,7 @@
 </p>
 
 ## Tools 🛠
-<p align="center>
-  <img src="https://raw.githubusercontent.com/JEpifanio90/JEpifanio90/master/assets/scsslogo.png" height="100">
+<p align="center">
   <img src="https://raw.githubusercontent.com/JEpifanio90/JEpifanio90/master/assets/gh%20actions.jpg" height="100">
   <img src="https://raw.githubusercontent.com/JEpifanio90/JEpifanio90/master/assets/docker.png" height="100">
   <img src="https://raw.githubusercontent.com/JEpifanio90/JEpifanio90/master/assets/jenkins.png" height="100">
