@@ -3,7 +3,6 @@
 </p>
 
 # Hello there!
-> Fullstack Software Engineer/Tech lead.  
 > Just your regular coffee consuming machine who know how to code. 👽.  
 
 
