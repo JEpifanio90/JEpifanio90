@@ -40,17 +40,6 @@
   <img src="https://raw.githubusercontent.com/JEpifanio90/JEpifanio90/master/assets/netcore.jpg" height="100">
 </p>
 
-## Tools 🛠
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JEpifanio90/JEpifanio90/master/assets/gh%20actions.jpg" height="100">
-  <img src="https://raw.githubusercontent.com/JEpifanio90/JEpifanio90/master/assets/docker.png" height="100">
-  <img src="https://raw.githubusercontent.com/JEpifanio90/JEpifanio90/master/assets/jenkins.png" height="100">
-  <img src="https://raw.githubusercontent.com/JEpifanio90/JEpifanio90/d622d72f958d33ecb530a99ea9d8a8f1790096cb/assets/openshift.svg" height="100">
-  <img src="https://raw.githubusercontent.com/JEpifanio90/JEpifanio90/master/assets/tensorflow_icon.png" height="100">
-  <img src="https://raw.githubusercontent.com/JEpifanio90/JEpifanio90/master/assets/postgresql.png" height="100">
-  <img src="https://raw.githubusercontent.com/JEpifanio90/JEpifanio90/master/assets/mysql.png" height="100">
-</p>
-
 ## Social 🍻
 > * Twitter: [@AnalyticBear](https://twitter.com/AnalyticBear)
 > * Github: [@JEpifanio90](https://github.com/JEpifanio90)
