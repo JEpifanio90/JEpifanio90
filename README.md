@@ -8,7 +8,6 @@
 
 ## Passion Projects
 > * (Future) 👾 [Conway's Game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) | [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) | Angular's Missing Components
-> * (Current) 🧮 [PYAlgorithms](https://github.com/JEpifanio90/PYAlgorithms) A repo containing the most common algorithms for arrays, hash maps, linked list, trees and more...
 > * (Paused) 👹 [DOOM IO](https://github.com/JEpifanio90/DOOM-IO)
 > Bot that plays your classic DOOM levels through Reinforcement Learning (RL) with tensorflow.  
 > * 🐆 [Cheetah Detection (Computer Vision)](https://github.com/JEpifanio90/CheetahDetection)
