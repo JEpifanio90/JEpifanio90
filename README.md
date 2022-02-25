@@ -7,8 +7,8 @@
 
 
 ## Passion Projects
-> * (Future) 👾 [Conway's Game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) | [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) | Angular's Missing Components
-> * (Paused) 👹 [DOOM IO](https://github.com/JEpifanio90/DOOM-IO)
+> * (Future) Twitter Bot | GOBot For VS Code | [JestGO](https://jester-69448.web.app/home/hot)
+> *  👹 [DOOM IO](https://github.com/JEpifanio90/DOOM-IO)
 > Bot that plays your classic DOOM levels through Reinforcement Learning (RL) with tensorflow.  
 > * 🐆 [Cheetah Detection (Computer Vision)](https://github.com/JEpifanio90/CheetahDetection)
 > Software that through a bunch of filters calculates the percentage match between two images.  
@@ -21,6 +21,7 @@
 
 ## Languages 💻
 <p align="center">
+  <img src="https://raw.githubusercontent.com/ashleymcnamara/gophers/master/GOPHER_DAD.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="100">
