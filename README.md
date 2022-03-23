@@ -7,7 +7,7 @@
 
 
 ## Passion Projects
-> * (Future) GOBot For twitter | [JestGO](https://jester-69448.web.app/home/hot)
+> * (Future) FireGO Just a quick Gin middleware that Authorizes any bearer token | [JestGO](https://jester-69448.web.app/home/hot)
 > *  👹 [DOOM IO](https://github.com/JEpifanio90/DOOM-IO)
 > Bot that plays your classic DOOM levels through Reinforcement Learning (RL) with tensorflow.  
 > * 🐆 [Cheetah Detection (Computer Vision)](https://github.com/JEpifanio90/CheetahDetection)
