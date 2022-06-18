@@ -22,9 +22,7 @@
 ## Languages 💻
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashleymcnamara/gophers/master/GOPHER_DAD.png" height="100">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="100">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/swift/swift.png" height="100">
 </p>
 
