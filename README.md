@@ -20,11 +20,19 @@
 > * ☀️ [Solstat](https://github.com/JEpifanio90/SolstatProjectUI)
 > WPF with material that calculates the cost to build a solar farm depending on the location you choose
 
-## Languages 💻
+## Tech 💻
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashleymcnamara/gophers/master/GOPHER_DAD.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/swift/swift.png" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" height="100">
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="100">
+  <img src="https://shanebart-cdn.azureedge.net/wp-content/uploads/2021/11/3h5gjh43gj5hhg43j-1.png" height="100">
+  <img src="https://ngrx.io/assets/images/badge.svg" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" height="100">
+  <img src="https://www.docker.com/wp-content/uploads/2021/10/Moby-logo-sm.png" height="100">
+  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" height="100">
+  <img src="https://destatic.blob.core.windows.net/images/spring-boot-logo.png" height="100">
 </p>
 
 
