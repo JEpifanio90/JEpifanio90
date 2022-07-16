@@ -33,6 +33,10 @@
   <img src="https://www.docker.com/wp-content/uploads/2021/10/Moby-logo-sm.png" height="100">
   <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" height="100">
   <img src="https://destatic.blob.core.windows.net/images/spring-boot-logo.png" height="100">
+  <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" height="100">
+  <img src="https://brandpalettes.com/wp-content/uploads/2021/06/redis-color-codes.svg" height="100">
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="100">
+  
 </p>
 
 
