@@ -8,6 +8,7 @@
 
 ## Passion Projects
 > * (Working) JesterIO Meme page made with golang micro services
+> * 🐶 [Bulldog-CLI](https://github.com/JEpifanio90/bulldog-cli) Cloud Management CLI that provides utility commands to your CLIs
 > * 🔥 [FireGO](https://github.com/JEpifanio90/FireGO) Go Gin middleware that authenticates any incoming token with firebase SDK
 > *  👹 [DOOM IO](https://github.com/JEpifanio90/DOOM-IO)
 > Bot that plays your classic DOOM levels through Reinforcement Learning (RL) with tensorflow.  
