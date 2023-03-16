@@ -22,4 +22,5 @@
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/swift/swift.png" height="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" height="100">
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="100">
+  <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" height="100">
 </p>
