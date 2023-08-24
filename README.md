@@ -20,5 +20,7 @@
   <img src="https://raw.githubusercontent.com/ashleymcnamara/gophers/master/GOPHER_DAD.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="100">
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="100">
-  <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" height="100">
+  <img src="https://angular.io/assets/images/logos/angular/angular.png" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="100">
+  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" height="100">
 </p>
