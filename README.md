@@ -3,7 +3,8 @@
 </p>
 
 ## Passion Projects
-> * (Working) 🐶 [Bulldog-CLI](https://github.com/JEpifanio90/bulldog-cli) Cloud Management CLI that provides utility commands to your CLIs
+> *  🤫 Astrion
+> *  🐶 [Bulldog-CLI](https://github.com/JEpifanio90/bulldog-cli) Cloud Management CLI that provides utility commands to your CLIs
 > *  👹 [DOOM IO](https://github.com/JEpifanio90/DOOM-IO)
 > Bot that plays your classic DOOM levels through Reinforcement Learning (RL) with tensorflow.  
 > * 🐆 [Cheetah Detection (Computer Vision)](https://github.com/JEpifanio90/CheetahDetection)
