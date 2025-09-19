@@ -3,7 +3,7 @@
 </p>
 
 ## Passion Projects
-> *  🦀 [KairosCli](https://github.com/JEpifanio90/KairosCli) The intelligent Rust CLI that analyzes your codebase to recommend optimal linting rules and provides a clear path for code quality improvement, extensible to all languages (initial focus: JS/TS).
+> *  🦀
 > *  🐶 [Bulldog-CLI](https://github.com/JEpifanio90/bulldog-cli) Cloud Management CLI that provides utility commands to your CLIs
 > *  👹 [DOOM IO](https://github.com/JEpifanio90/DOOM-IO)
 > Bot that plays your classic DOOM levels through Reinforcement Learning (RL) with tensorflow.  
