@@ -3,7 +3,7 @@
 </p>
 
 ## Passion Projects
-> *  🦀 [Talos](https://github.com/JEpifanio90/Talos) Rewrite of Openclaw in rust (Handcrafted)
+> *  👻 [Spectras]() Working on it...
 > *  🐶 [Bulldog-CLI](https://github.com/JEpifanio90/bulldog-cli) Cloud Management CLI that provides utility commands to your CLIs
 > *  👹 [DOOM IO](https://github.com/JEpifanio90/DOOM-IO)
 > Bot that plays your classic DOOM levels through Reinforcement Learning (RL) with tensorflow.  
