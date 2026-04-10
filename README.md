@@ -19,6 +19,7 @@
 ## Tech 💻
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashleymcnamara/gophers/master/GOPHER_DAD.png" height="100">
+  <img src="https://rustacean.net/assets/rustacean-flat-noshadow.svg" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="100">
   <img src="https://angular.io/assets/images/logos/angular/angular.png" height="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="100">
